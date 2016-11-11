@@ -259,7 +259,7 @@ and (max-width : 1368px) {
   }
 
   .about-me-content {
-    width: 355px;
+    width: 489px;
     padding: 45px 10px 25px 31px;
   }
 
@@ -271,9 +271,9 @@ and (max-width : 1368px) {
   #connect-with-me-area {
     background-color: white;
     float: right;
-    width: 178px;
+    width: 220px;
     margin-top: 32px;
-    margin-right: 229px;
+    margin-right: 50px;
     padding: 30px 30px 43px 30px;
   }
   .connect-with-me-header {
@@ -347,6 +347,31 @@ and (max-width : 1368px) {
   /* END  CONTACT.html */
   /*-------------------*/
 
+  /*-------------------*/
+  /* START PORTFOLIO.html */
+  /*-------------------*/
+  #portfolio-area {
+    width: 300px;
+    padding: 45px 10px 25px 31px;
+    background-color: #fff;
+    float: left;
+    margin-top: 30px;
+    margin-left: 118px;
+    margin-bottom: 200px;
+  }
+
+  .port-hr {
+    margin-bottom: 40px;
+  }
+
+  .port-imgs {
+    width: 233px;
+    height: 166px;
+  }
+
+  /*-------------------*/
+  /* END PORTFOLIO.html */
+  /*-------------------*/
 }
 
 /*-------------------*/
@@ -435,14 +460,14 @@ and (max-width : 980px) {
 
   #main-content {
     margin-top: 32px;
-    margin-left: 118px;
+    margin-left: 4%;
     background-color: #fff;
     float: left;
     margin-bottom: 50px;
   }
 
   .about-me-content{
-    width: 325px;
+    width: 400px;
     padding: 45px 10px 25px 31px;
   }
 
@@ -467,7 +492,7 @@ and (max-width : 980px) {
     float: right;
     width: 145px;
     margin-top: 32px;
-    margin-right: 229px;
+    margin-right: 3%;
     padding: 30px 30px 43px 30px;
   }
 
